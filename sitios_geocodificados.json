@@ -1,0 +1,1332 @@
+[
+  {
+    "nombre_encontrado": "Coves de Sant Josep",
+    "direccion": "Passeig de les Grutes, s/n, 12600 La Vall d'Uixó, Castelló",
+    "lat": 39.8229163,
+    "lng": -0.2508491,
+    "place_id": "ChIJx1hLfoUNYA0Rpyp5prmIZdE",
+    "busqueda": "Cuevas de San Jose, Vall de Laguar",
+    "url": "https://www.facebook.com/reel/687124286952831/",
+    "resumen": "Rio subterraneo navegable mas largo de Europa, en cueva con galerias secas y formaciones rocosas. Entrada unos 14 euros, navegacion de mas de 800 metros."
+  },
+  {
+    "nombre_encontrado": "Hotel Balneario de la Hermida",
+    "direccion": "Carretera La Hermida a Potes, s/n, 39580 La Hermida, Cantabria",
+    "lat": 43.2521259,
+    "lng": -4.6068704,
+    "place_id": "ChIJR5Eq5Ge6SQ0RXZLefkf-wbU",
+    "busqueda": "Balneario de la Hermida",
+    "url": "https://www.facebook.com/reel/470113648735312/",
+    "resumen": "Balneario de aguas termales en plena naturaleza, con varias piscinas termales y circuito de spa interior. Entrada unos 25 euros."
+  },
+  {
+    "nombre_encontrado": "Saint-Cirq-Lapopie",
+    "direccion": "46330 Saint-Cirq-Lapopie, France",
+    "lat": 44.464672,
+    "lng": 1.669032,
+    "place_id": "ChIJQbDxAq3wrBIReGzzq5Nty_Y",
+    "busqueda": "Saint-Cirq-Lapopie, Francia",
+    "url": "https://www.facebook.com/reel/642283551333198/",
+    "resumen": "Pueblo medieval de apenas dos calles construido en un acantilado a orillas de un rio, en el sur de Francia."
+  },
+  {
+    "nombre_encontrado": "Pozas de Sarvisé",
+    "direccion": "HU-631, 22375, Huesca",
+    "lat": 42.5660272,
+    "lng": -0.06797249999999999,
+    "place_id": "ChIJLx5WEab_Vw0RF43xjSqay_w",
+    "busqueda": "Pozas de Vio, Huesca",
+    "url": "https://www.facebook.com/share/r/ut3egmk95fpYZwTa/",
+    "resumen": "Ruta de cinco dias por Huesca con pozas de aguas cristalinas, cascadas y aguas termales (303 escalones hasta la fuente de los banos)."
+  },
+  {
+    "nombre_encontrado": "Parque Natural de Los Calares del Mundo y de la Sima",
+    "direccion": "CM-3204, 02459 Riópar, Albacete",
+    "lat": 38.4287383,
+    "lng": -2.4109946,
+    "place_id": "ChIJU_6AOUj4ZQ0RrQdAKZTDI7w",
+    "busqueda": "Ruta de las Pasarelas del Rio Mundo, Albacete",
+    "url": "https://www.facebook.com/share/r/qDQCUHDKwwBiddqa/",
+    "resumen": "Ruta con escalera tallada en la roca, cascadas y pasarelas espectaculares. Caminas sobre el agua en algunos tramos."
+  },
+  {
+    "nombre_encontrado": "Rocamadour",
+    "direccion": "46500 Rocamadour, France",
+    "lat": 44.7996726,
+    "lng": 1.6182481,
+    "place_id": "ChIJu_0MS7TFrBIRSKIRsX0wWv8",
+    "busqueda": "Rocamadour, Francia",
+    "url": "https://www.facebook.com/share/r/1Dh6z1m5Sb/",
+    "resumen": "Santuario colgado de un acantilado en tres niveles: villa medieval, santuario tallado en la roca y castillo con vistas panoramicas."
+  },
+  {
+    "nombre_encontrado": "Valderrobres",
+    "direccion": "44580 Valderrobres, Teruel",
+    "lat": 40.8733331,
+    "lng": 0.1535949,
+    "place_id": "ChIJuQ3M-KuQoBIRq_zr_3-Ube0",
+    "busqueda": "Valderrobres",
+    "url": "https://www.facebook.com/share/r/1NPXiS6UgV/",
+    "resumen": "Cinco pueblos de la Toscana espanola en el Matarrana, Teruel: pueblos medievales con arquitectura y calles empedradas con flores."
+  },
+  {
+    "nombre_encontrado": "Beceite",
+    "direccion": "44588 Beceite, Teruel",
+    "lat": 40.8315669,
+    "lng": 0.1816936,
+    "place_id": "ChIJPaEsXVGQoBIRKIXBemvl77Q",
+    "busqueda": "Beceite",
+    "url": "https://www.facebook.com/share/r/1NPXiS6UgV/",
+    "resumen": "Cinco pueblos de la Toscana espanola en el Matarrana, Teruel: pueblos medievales con arquitectura y calles empedradas con flores."
+  },
+  {
+    "nombre_encontrado": "La Fresneda",
+    "direccion": "44596 La Fresneda, Teruel",
+    "lat": 40.9277346,
+    "lng": 0.0752607,
+    "place_id": "ChIJA7gFr9KYoBIRuifkHliCiJM",
+    "busqueda": "La Fresneda",
+    "url": "https://www.facebook.com/share/r/1NPXiS6UgV/",
+    "resumen": "Cinco pueblos de la Toscana espanola en el Matarrana, Teruel: pueblos medievales con arquitectura y calles empedradas con flores."
+  },
+  {
+    "nombre_encontrado": "Cretas",
+    "direccion": "Cretas, 44623, Teruel",
+    "lat": 40.9282239,
+    "lng": 0.1963364,
+    "place_id": "ChIJr7RaEVeWoBIRQGjPCGWMAQQ",
+    "busqueda": "Cretas",
+    "url": "https://www.facebook.com/share/r/1NPXiS6UgV/",
+    "resumen": "Cinco pueblos de la Toscana espanola en el Matarrana, Teruel: pueblos medievales con arquitectura y calles empedradas con flores."
+  },
+  {
+    "nombre_encontrado": "Calaceite",
+    "direccion": "44610 Calaceite, Teruel",
+    "lat": 41.0158479,
+    "lng": 0.1876385,
+    "place_id": "ChIJxW1CiPW8oBIR84mhs3T-a8g",
+    "busqueda": "Calaceite",
+    "url": "https://www.facebook.com/share/r/1NPXiS6UgV/",
+    "resumen": "Cinco pueblos de la Toscana espanola en el Matarrana, Teruel: pueblos medievales con arquitectura y calles empedradas con flores."
+  },
+  {
+    "nombre_encontrado": "Sky Garden",
+    "direccion": "1, Sky Garden Walk, London EC3M 8AF, UK",
+    "lat": 51.5112422,
+    "lng": -0.08354929999999999,
+    "place_id": "ChIJgaI8bFIDdkgRhJJqLMxsFdU",
+    "busqueda": "Sky Garden, Londres",
+    "url": "https://www.facebook.com/share/r/1GvY4LZdup/",
+    "resumen": "Consejos para ahorrar en Londres: vistas gratis desde Sky Garden o Primrose Hill en vez del London Eye, y Uber Boat mas barato por el Tamesis."
+  },
+  {
+    "nombre_encontrado": "Primrose Hill",
+    "direccion": "Primrose Hill, London, UK",
+    "lat": 51.5412572,
+    "lng": -0.1533169,
+    "place_id": "ChIJ6V7jzO4adkgRmRjI9lMi07M",
+    "busqueda": "Primrose Hill, Londres",
+    "url": "https://www.facebook.com/share/r/1GvY4LZdup/",
+    "resumen": "Consejos para ahorrar en Londres: vistas gratis desde Sky Garden o Primrose Hill en vez del London Eye, y Uber Boat mas barato por el Tamesis."
+  },
+  {
+    "nombre_encontrado": "Vilnius",
+    "direccion": "Vilnius, Vilnius City Municipality, Lithuania",
+    "lat": 54.6871555,
+    "lng": 25.2796514,
+    "place_id": "ChIJ9QhkXPuT3UYRQNzpcIzRAAQ",
+    "busqueda": "Vilnius, Lituania",
+    "url": "https://www.facebook.com/share/r/15xhZE7Pax/",
+    "resumen": "Ciudad economica de Europa con vuelos desde 50 euros y hoteles desde 25 euros. Replica del Arco del Triunfo y librerias bonitas."
+  },
+  {
+    "nombre_encontrado": "Geoparque Las Loras",
+    "direccion": "Av. Cervera, 26, 34800 Aguilar de Campoo, Palencia",
+    "lat": 42.79546879999999,
+    "lng": -4.2659173,
+    "place_id": "ChIJ-9fLktrySA0RnorpUIU5RPY",
+    "busqueda": "Geoparque de las Loras, Burgos-Palencia",
+    "url": "https://www.facebook.com/share/r/15xierbtA9/",
+    "resumen": "Geoparque mundial UNESCO poco conocido a 2 horas de Madrid, con rutas, cascadas, castillos y gastronomia tradicional."
+  },
+  {
+    "nombre_encontrado": "Río Pitarque",
+    "direccion": "Río Pitarque, Teruel",
+    "lat": 40.5729726,
+    "lng": -0.5901967,
+    "place_id": "ChIJqegYg-AAXw0RNaM-e2GE5kI",
+    "busqueda": "Rio Pitarque",
+    "url": "https://www.facebook.com/share/r/1EctU4pFWr/",
+    "resumen": "Escapada de tres dias por Teruel: nacimiento del rio Pitarque, pasarelas de Aliaga y cuatro pueblos bonitos."
+  },
+  {
+    "nombre_encontrado": "Cantavieja",
+    "direccion": "44140 Cantavieja, Teruel",
+    "lat": 40.5253607,
+    "lng": -0.4048609,
+    "place_id": "ChIJo_Ze5k6kXw0R4_X-YVQKdcQ",
+    "busqueda": "Cantavieja",
+    "url": "https://www.facebook.com/share/r/1EctU4pFWr/",
+    "resumen": "Escapada de tres dias por Teruel: nacimiento del rio Pitarque, pasarelas de Aliaga y cuatro pueblos bonitos."
+  },
+  {
+    "nombre_encontrado": "Mirambel",
+    "direccion": "44141 Mirambel, Teruel",
+    "lat": 40.5878351,
+    "lng": -0.3424807,
+    "place_id": "ChIJO78qbQShXw0Rik_WX4rtPiQ",
+    "busqueda": "Mirambel",
+    "url": "https://www.facebook.com/share/r/1EctU4pFWr/",
+    "resumen": "Escapada de tres dias por Teruel: nacimiento del rio Pitarque, pasarelas de Aliaga y cuatro pueblos bonitos."
+  },
+  {
+    "nombre_encontrado": "Rubielos de Mora",
+    "direccion": "44415 Rubielos de Mora, Teruel",
+    "lat": 40.1901266,
+    "lng": -0.6541840999999999,
+    "place_id": "ChIJJ8LzlLYzXg0RMrJHPDkTKhY",
+    "busqueda": "Rubielos de Mora",
+    "url": "https://www.facebook.com/share/r/1EctU4pFWr/",
+    "resumen": "Escapada de tres dias por Teruel: nacimiento del rio Pitarque, pasarelas de Aliaga y cuatro pueblos bonitos."
+  },
+  {
+    "nombre_encontrado": "Puertomingalvo",
+    "direccion": "44411 Puertomingalvo, Teruel",
+    "lat": 40.2648619,
+    "lng": -0.459967,
+    "place_id": "ChIJq4D8h4jIXw0RDpo4XH3VAIA",
+    "busqueda": "Portomingalvo",
+    "url": "https://www.facebook.com/share/r/1EctU4pFWr/",
+    "resumen": "Escapada de tres dias por Teruel: nacimiento del rio Pitarque, pasarelas de Aliaga y cuatro pueblos bonitos."
+  },
+  {
+    "nombre_encontrado": "Strasbourg",
+    "direccion": "Strasbourg, France",
+    "lat": 48.5734053,
+    "lng": 7.752111299999999,
+    "place_id": "ChIJwbIYXknIlkcRHyTnGDFIGpc",
+    "busqueda": "Estrasburgo, Francia",
+    "url": "https://www.facebook.com/share/r/1EeTduEixF/",
+    "resumen": "Casco historico muy bien conservado con ayuntamiento pintado de rojo con frescos historicos. Paseo junto al rio."
+  },
+  {
+    "nombre_encontrado": "Albi",
+    "direccion": "Albi, France",
+    "lat": 43.9248689,
+    "lng": 2.1486789,
+    "place_id": "ChIJC7eXebHCrRIR4PA7L5z2BgQ",
+    "busqueda": "Albi",
+    "url": "https://www.facebook.com/share/r/1819xbNB9A/",
+    "resumen": "Ruta en autocaravana por Francia en Semana Santa (400km): Albi, Conques, Saint-Cirq-Lapopie y Rocamadour."
+  },
+  {
+    "nombre_encontrado": "Conques",
+    "direccion": "Conques, 12320 Conques-en-Rouergue, France",
+    "lat": 44.599402,
+    "lng": 2.396037,
+    "place_id": "ChIJU91DC19hrRIRt3lg02JJvHU",
+    "busqueda": "Conques",
+    "url": "https://www.facebook.com/share/r/1819xbNB9A/",
+    "resumen": "Ruta en autocaravana por Francia en Semana Santa (400km): Albi, Conques, Saint-Cirq-Lapopie y Rocamadour."
+  },
+  {
+    "nombre_encontrado": "Saint-Cirq-Lapopie",
+    "direccion": "46330 Saint-Cirq-Lapopie, France",
+    "lat": 44.464672,
+    "lng": 1.669032,
+    "place_id": "ChIJQbDxAq3wrBIReGzzq5Nty_Y",
+    "busqueda": "Saint-Cirq-Lapopie",
+    "url": "https://www.facebook.com/share/r/1819xbNB9A/",
+    "resumen": "Ruta en autocaravana por Francia en Semana Santa (400km): Albi, Conques, Saint-Cirq-Lapopie y Rocamadour."
+  },
+  {
+    "nombre_encontrado": "Rocamadour",
+    "direccion": "46500 Rocamadour, France",
+    "lat": 44.7996726,
+    "lng": 1.6182481,
+    "place_id": "ChIJu_0MS7TFrBIRSKIRsX0wWv8",
+    "busqueda": "Rocamadour",
+    "url": "https://www.facebook.com/share/r/1819xbNB9A/",
+    "resumen": "Ruta en autocaravana por Francia en Semana Santa (400km): Albi, Conques, Saint-Cirq-Lapopie y Rocamadour."
+  },
+  {
+    "nombre_encontrado": "Cozy chic cafe",
+    "direccion": "C. de Manuel Lorenzo Pardo, 11, 50008 Zaragoza",
+    "lat": 41.6431176,
+    "lng": -0.8750359999999999,
+    "place_id": "ChIJZXlHRysVWQ0RQTXxq1vd9IE",
+    "busqueda": "Coci Chiqui Cafe, Zaragoza",
+    "url": "https://www.instagram.com/reel/C46G32Boc2x/?igsh=MTF2N2c5d3VyMXc3ZQ==",
+    "resumen": "Brunch en la calle Lorenzo Pardo (Zaragoza), todo casero. Recomienda huevos benedictinos y bao casero."
+  },
+  {
+    "nombre_encontrado": "Sorzano",
+    "direccion": "26191 Sorzano, La Rioja",
+    "lat": 42.3426888,
+    "lng": -2.528459,
+    "place_id": "ChIJOeDsScFNRQ0RYV2v0vG_RiA",
+    "busqueda": "Cuevas de Sorzano, La Rioja",
+    "url": "https://www.instagram.com/reel/C4yU8cIIrUF/?igsh=encwNmNydng0Y3R6",
+    "resumen": "Galerias excavadas en tierra rojiza con cientos de hornacinas, a 15 min de Logrono. Acceso gratuito."
+  },
+  {
+    "nombre_encontrado": "HEYDAY",
+    "direccion": "Av. de Sta. Isabel, 189, Santa Isabel, 50016 Zaragoza",
+    "lat": 41.6668104,
+    "lng": -0.8266201,
+    "place_id": "ChIJzUQMWl4XWQ0R0GmiHQ1PI6Q",
+    "busqueda": "Restaurante Denay",
+    "url": "https://www.instagram.com/reel/C7Gh0bQNPzh/?igsh=NGZjdWc3ZGhkdmly",
+    "resumen": "Parrilla argentina todo incluido: carne ilimitada, cervezas, postre y cafe incluidos."
+  },
+  {
+    "nombre_encontrado": "delcampoymas",
+    "direccion": "C. de Gascón de Gotor, 26, 50006 Zaragoza",
+    "lat": 41.6386633,
+    "lng": -0.8892922,
+    "place_id": "ChIJ5_12dt8UWQ0RqoX-i3Xbrn8",
+    "busqueda": "Solo Can Mas, Zaragoza",
+    "url": "https://www.instagram.com/reel/C5GKvAZK3rU/?igsh=OXlnMmx6eGRqZnhz",
+    "resumen": "Hotpot tematico chino en el centro de Zaragoza, con reservados privados y mochis caseros."
+  },
+  {
+    "nombre_encontrado": "SENBAZURU RAMEN BAR",
+    "direccion": "C. del Heroísmo, 39, Casco Antiguo, 50002 Zaragoza",
+    "lat": 41.6499456,
+    "lng": -0.8745358999999999,
+    "place_id": "ChIJ325PRBYVWQ0RpT1QUXIwvPo",
+    "busqueda": "Senbazuru, Zaragoza",
+    "url": "https://www.instagram.com/reel/C7okCbnoKKx/?igsh=Nnkwc3cwbmM1cGxm",
+    "resumen": "Taberna japonesa con el mejor ramen de Zaragoza segun el video. Solo dos ramenes en carta."
+  },
+  {
+    "nombre_encontrado": "lapiedra64_bocateria",
+    "direccion": "C. de Cortes de Aragón, 64, 50005 Zaragoza",
+    "lat": 41.643102,
+    "lng": -0.8945841,
+    "place_id": "ChIJc8ODNggVWQ0R_xxU5GN4CvI",
+    "busqueda": "La Piedra 64, Zaragoza",
+    "url": "https://www.instagram.com/reel/C7RUa3zI5bH/?igsh=Z2RpaHQwbTd5c3Jv",
+    "resumen": "Antigua taberna reconvertida en hamburgueseria y bocadillos premium."
+  },
+  {
+    "nombre_encontrado": "La Paradeta Sants",
+    "direccion": "Carrer de Riego, 27, Sants-Montjuïc, 08014 Barcelona",
+    "lat": 41.3766215,
+    "lng": 2.1383123,
+    "place_id": "ChIJbx7LkjaZpBIRIm9BkPGBJco",
+    "busqueda": "Mariscadas en Sants, Barcelona",
+    "url": "https://www.instagram.com/reel/C5yrNjusm59/?igsh=ZDJvbTgyeXFic2Ft",
+    "resumen": "Mariscada economica (16 euros) servida en pala, cerca de la estacion de Sants."
+  },
+  {
+    "nombre_encontrado": "Camden Language Centre",
+    "direccion": "P.º de los Rosales, 22, 50008 Zaragoza",
+    "lat": 41.6401978,
+    "lng": -0.8775387,
+    "place_id": "ChIJz8PBKeMUWQ0RwDjKjFJGPm8",
+    "busqueda": "Restaurante Camden, Zaragoza",
+    "url": "https://www.instagram.com/reel/C7PbPb3IYBu/?igsh=MXd1bjljZHkyNnBvdA==",
+    "resumen": "Restaurante recien reformado con menu del dia. Huevos rotos con foie y costillar de cerdo con miel."
+  },
+  {
+    "nombre_encontrado": "Bronchales",
+    "direccion": "44367 Bronchales, Teruel",
+    "lat": 40.50883779999999,
+    "lng": -1.5880904,
+    "place_id": "ChIJ24kHg9C2XQ0RlU_La-gbjLU",
+    "busqueda": "Bronchales",
+    "url": "https://www.instagram.com/reel/C5T4evYsfbT/?igsh=NXFscXZpZmVmNWE4",
+    "resumen": "Escapada de 4 dias por Teruel: estrechos de Bronchales, Albarracin y varias cascadas."
+  },
+  {
+    "nombre_encontrado": "Albarracín",
+    "direccion": "44126 Albarracín, Teruel",
+    "lat": 40.4075581,
+    "lng": -1.443876,
+    "place_id": "ChIJ69XZySDEXQ0R2Fz1W2-yO6c",
+    "busqueda": "Albarracin",
+    "url": "https://www.instagram.com/reel/C5T4evYsfbT/?igsh=NXFscXZpZmVmNWE4",
+    "resumen": "Escapada de 4 dias por Teruel: estrechos de Bronchales, Albarracin y varias cascadas."
+  },
+  {
+    "nombre_encontrado": "Restaurante Casa Lac",
+    "direccion": "C. de los Mártires, 12, Casco Antiguo, 50003 Zaragoza",
+    "lat": 41.6527367,
+    "lng": -0.8800939,
+    "place_id": "ChIJv4n0J-wUWQ0RnL6h-xWRBOI",
+    "busqueda": "Casa Lac, Zaragoza",
+    "url": "https://www.instagram.com/reel/C8jOKR2ICy9/?igsh=amd1ZDE5c2JjZ2cy",
+    "resumen": "Recomienda huevos rotos con jamon iberico y foie, tortilla con bacalao y solomillo tartaro."
+  },
+  {
+    "nombre_encontrado": "NTARTE | Nuevas Tecnologías en el Arte",
+    "direccion": "C. de los Mártires, 3, Casco Antiguo, 50003 Zaragoza",
+    "lat": 41.65271,
+    "lng": -0.88064,
+    "place_id": "ChIJXRk5kbVFWA0RwzMWBeNc5XY",
+    "busqueda": "Novarte Bailorento",
+    "url": "https://www.instagram.com/reel/C8KkSWhMuEw/?igsh=eHg2c3A0cndiYXdy",
+    "resumen": "Restaurante con sol Repsol en la provincia de Zaragoza, menu de 20-22 euros."
+  },
+  {
+    "nombre_encontrado": "A Mercadoria",
+    "direccion": "C. San Erasmo, 29, Nave B20, Villaverde, 28021 Madrid",
+    "lat": 40.3323281,
+    "lng": -3.706155,
+    "place_id": "ChIJyewMXJgnQg0RXKm_4TxlGHo",
+    "busqueda": "Amercadoria",
+    "url": "https://www.instagram.com/reel/C5xzj_kLw7G/?igsh=bjF3aGd3OWEzcHY5",
+    "resumen": "Sitio de vajilla portuguesa al peso, en la carretera Logrono."
+  },
+  {
+    "nombre_encontrado": "Balcón del Pirineo",
+    "direccion": "C. Vita, 49, 22375 Buesa, Huesca",
+    "lat": 42.58440909999999,
+    "lng": -0.1062279,
+    "place_id": "ChIJk6s2bMvVWQ0R3B8SyVTdQAw",
+    "busqueda": "El Balcon del Pirineo, Buesa",
+    "url": "https://www.instagram.com/reel/C8pdOSxOCg0/?igsh=MWhhZWVkOHhvM29v",
+    "resumen": "Restaurante en Buesa especializado en ternera pirenaica madurada 45 dias."
+  },
+  {
+    "nombre_encontrado": "Impact Food Brasería",
+    "direccion": "C. de Barcelona, 35, Delicias, 50017 Zaragoza",
+    "lat": 41.6515782,
+    "lng": -0.9085524,
+    "place_id": "ChIJDVEvylFrWQ0R7EQoduV3jW0",
+    "busqueda": "Impact Food, Zaragoza",
+    "url": "https://www.instagram.com/reel/C8ADolSIjDv/?igsh=MWd6N3d1YW4yb2s2OA==",
+    "resumen": "Pollo a la brasa viral en Zaragoza, elaborado con pollos amarillos."
+  },
+  {
+    "nombre_encontrado": "Lagunas de Ruidera (Chorro de las Minas)",
+    "direccion": "Chorro de la Minas, 17, Cam. Baño de las Mulas, 34, 02611 Ossa de Montiel, Albacete",
+    "lat": 38.931457,
+    "lng": -2.840845,
+    "place_id": "ChIJL1U0QnqVaA0RArzCXZva1SU",
+    "busqueda": "Lagunas de Ruidera",
+    "url": "https://www.instagram.com/reel/C6JzqEmLD_T/?igsh=ZGNtMTlzcWF1b3Y1",
+    "resumen": "Lagunas de agua azul turquesa a unas 2 horas de Madrid, con rutas y restaurantes."
+  },
+  {
+    "nombre_encontrado": "Sardinia",
+    "direccion": "Sardinia, Italy",
+    "lat": 40.1208752,
+    "lng": 9.012892599999999,
+    "place_id": "ChIJkTWNRI3E3RIRMWar5LZ0ljM",
+    "busqueda": "Cerdena, Italia",
+    "url": "https://www.instagram.com/reel/C6_0VaaKZqa/?igsh=MTlzN2MzZGVyYjVxOA==",
+    "resumen": "Destino economico de verano: vuelos desde 48 euros, alojamiento desde 23 euros por persona y noche."
+  },
+  {
+    "nombre_encontrado": "Taramundi",
+    "direccion": "Taramundi, 33775 Taramundi, Asturias",
+    "lat": 43.36039359999999,
+    "lng": -7.108345799999999,
+    "place_id": "ChIJlcR2fZOdMQ0RGvFdMOUHJWI",
+    "busqueda": "Taramundi, Asturias",
+    "url": "https://www.instagram.com/reel/C7WfSwwMn5G/?igsh=MW5pemc3anF5NDkyaA==",
+    "resumen": "Escapada a Taramundi: museo de molinos, ruta del agua. Comer en O Mazo, alojarse en Caserio Biduedo."
+  },
+  {
+    "nombre_encontrado": "Mesón el Mazo",
+    "direccion": "Teixóis, s/n, 33775 Conjunto etnográfico de Teixois, Asturias",
+    "lat": 43.3413101,
+    "lng": -7.079628,
+    "place_id": "ChIJLRVAhuJ1MQ0RpiMNB0LFBoc",
+    "busqueda": "Restaurante O Mazo",
+    "url": "https://www.instagram.com/reel/C7WfSwwMn5G/?igsh=MW5pemc3anF5NDkyaA==",
+    "resumen": "Escapada a Taramundi: museo de molinos, ruta del agua. Comer en O Mazo, alojarse en Caserio Biduedo."
+  },
+  {
+    "nombre_encontrado": "BAR PADRAO TAPAS",
+    "direccion": "Tr.ª de la Parada, 4, Centro, 28015 Madrid",
+    "lat": 40.4228532,
+    "lng": -3.7080099,
+    "place_id": "ChIJR2puZewpQg0RYw1X3QqFCWY",
+    "busqueda": "Bar Padraco, Madrid",
+    "url": "https://www.instagram.com/reel/C3fI4JGtvup/?igsh=MXZ5cHZmdW5ibHdqeQ==",
+    "resumen": "Bar detras de Gran Via con tapa gratis grande por cada cana (3,50 euros)."
+  },
+  {
+    "nombre_encontrado": "Valhalla",
+    "direccion": "C. de Mariano Lagasca, 23, 50006 Zaragoza",
+    "lat": 41.6450429,
+    "lng": -0.8887158,
+    "place_id": "ChIJYeBjDa0VWQ0RIBZYSRckB_o",
+    "busqueda": "Baljala, Zaragoza",
+    "url": "https://www.instagram.com/reel/C5RL5U9oN4s/?igsh=MWptYmF2NTdkNDB0MQ==",
+    "resumen": "Taberna vikinga en Zaragoza con hidromiel en cuerno y burger ganadora de concurso."
+  },
+  {
+    "nombre_encontrado": "Restaurante Balcón del Pirineo Aragonés",
+    "direccion": "C. Vita, 48, 22375 Buesa, Huesca",
+    "lat": 42.5843689,
+    "lng": -0.1064417,
+    "place_id": "ChIJpSNoxDX5Vw0R5luF-8GZI-Y",
+    "busqueda": "Restaurante Buesa, Pirineo aragones",
+    "url": "https://www.instagram.com/reel/C92A9KjsJ4R/?igsh=MWtpa3AxZDVwenk5ag==",
+    "resumen": "Restaurante de carnes a la brasa a los pies del Parque Nacional de Ordesa. Alojamientos con jacuzzi."
+  },
+  {
+    "nombre_encontrado": "Voltereta Nueva Zelanda | Zaragoza",
+    "direccion": "C. de la Salle, 4, 50006 Zaragoza",
+    "lat": 41.6402113,
+    "lng": -0.8936702999999999,
+    "place_id": "ChIJtXoRIgAVWQ0RKSD0DKUAjPM",
+    "busqueda": "Restaurante grupo Boltana (tematico Nueva Zelanda)",
+    "url": "https://www.instagram.com/reel/C-IwCUAoLjZ/?igsh=cTBuc3hseWc1cWFy",
+    "resumen": "Restaurante con cascada interior y mesas sobre el agua. Menu del dia desde 16,90 euros."
+  },
+  {
+    "nombre_encontrado": "Bocatería Sandvico",
+    "direccion": "C. de Fray Juan Cebrián, 6, Casco Antiguo, 50003 Zaragoza",
+    "lat": 41.6554803,
+    "lng": -0.8793145,
+    "place_id": "ChIJp6NsB8UVWQ0RvSh8vLZ8pwU",
+    "busqueda": "San Vico, Zaragoza",
+    "url": "https://www.instagram.com/reel/C-LYZZQIeav/?igsh=MWh4a29ydmlha2V0eQ==",
+    "resumen": "Bocateria cerca de la plaza del Pilar, abierto hasta las 6 de la manana."
+  },
+  {
+    "nombre_encontrado": "Bascake Zaragoza",
+    "direccion": "C. de Antonio Candalija, 4, Casco Antiguo, 50003 Zaragoza",
+    "lat": 41.65434,
+    "lng": -0.8812377,
+    "place_id": "ChIJSW6iFQQVWQ0RinmMa4j4Lto",
+    "busqueda": "Bascake, Zaragoza",
+    "url": "https://www.instagram.com/reel/C-pXh8vIusl/?igsh=MTQ0ZjV1NGk5ZTZmbg==",
+    "resumen": "Tienda especializada en tartas de queso caseras estilo vasco en Zaragoza."
+  },
+  {
+    "nombre_encontrado": "Mas Torres",
+    "direccion": "C. de Francisco de Vitoria, 19, 50008 Zaragoza",
+    "lat": 41.646136,
+    "lng": -0.8799409,
+    "place_id": "ChIJM8sThi8VWQ0R4nM2s0uOtHI",
+    "busqueda": "Restaurante Mastorres, Zaragoza",
+    "url": "https://www.instagram.com/reel/C4nU_GUIWfr/?igsh=MW9tOGV6aWg4cTE3Mg==",
+    "resumen": "Mejor cachopo de Espana segun el video: relleno de jamon iberico de Jabugo y queso de Cantabria."
+  },
+  {
+    "nombre_encontrado": "Lesaka",
+    "direccion": "31770 Lesaka, Navarre",
+    "lat": 43.2473876,
+    "lng": -1.7021937,
+    "place_id": "ChIJ87YSIpoEUQ0RfPChs8qqYYI",
+    "busqueda": "Lesaka, Navarra",
+    "url": "https://www.instagram.com/reel/C7tQ0R1Icyt/?igsh=b2U4YzF3cG53ZTlr",
+    "resumen": "Pueblo del norte de Navarra con tortilla de patata campeona de Espana 2001."
+  },
+  {
+    "nombre_encontrado": "La Esquina de Jara",
+    "direccion": "C. de Caspe, 11, Delicias, 50017 Zaragoza",
+    "lat": 41.65026779999999,
+    "lng": -0.9054277,
+    "place_id": "ChIJcfv208wUWQ0R19Bg1ZNHTsM",
+    "busqueda": "La Esquina de Jara, Zaragoza",
+    "url": "https://www.instagram.com/reel/C_S2VvmIkJa/?igsh=MWowZnR2NHdmYTJzcQ==",
+    "resumen": "Restaurante colombiano en el barrio de la Magdalena. Recomienda las salchipapas."
+  },
+  {
+    "nombre_encontrado": "Chakana",
+    "direccion": "Pl. de San Miguel, 3, Casco Antiguo, 50001 Zaragoza",
+    "lat": 41.6500548,
+    "lng": -0.8757948999999999,
+    "place_id": "ChIJv6L2MocVWQ0RHwRndDfxwyQ",
+    "busqueda": "Chacana, Zaragoza",
+    "url": "https://www.instagram.com/reel/C_Q4K3EIrjS/?igsh=MXhwY2g0NnlwcXVuNw==",
+    "resumen": "Restaurante ecuatoriano fusion con toques japoneses y espanoles. Destacan sus ceviches."
+  },
+  {
+    "nombre_encontrado": "Distrito 37",
+    "direccion": "C/ del Azoque, 37, Casco Antiguo, 50004 Zaragoza",
+    "lat": 41.6514893,
+    "lng": -0.8843049,
+    "place_id": "ChIJxw8LQlQVWQ0RfX_Syx7IKF8",
+    "busqueda": "Distrito 37, Zaragoza",
+    "url": "https://www.instagram.com/reel/C_VIhhLtFjq/?igsh=MWd4aGRkMXVkZGVzcg==",
+    "resumen": "Recomienda la corteza de patata con salsa y nachos caseros con crema de queso."
+  },
+  {
+    "nombre_encontrado": "Moon Drinks & Food",
+    "direccion": "C. de Baltasar Gracián, 1, 50005 Zaragoza",
+    "lat": 41.6443001,
+    "lng": -0.8926563999999999,
+    "place_id": "ChIJPXxDMkYVWQ0R-Ekl1NXbLX0",
+    "busqueda": "Moon Furan Drinks, Zaragoza",
+    "url": "https://www.instagram.com/reel/C_-iO4XoAM3/?igsh=MWw3ZTcyYjZvamZvbA==",
+    "resumen": "Local recien abierto especializado en bocadillos. Recomienda las carrilleras."
+  },
+  {
+    "nombre_encontrado": "B de Burger",
+    "direccion": "C. de Francisco de Vitoria, 3, 50008 Zaragoza",
+    "lat": 41.6472047,
+    "lng": -0.8821475,
+    "place_id": "ChIJ9bvfB9gVWQ0R0q9btsjgGVk",
+    "busqueda": "Bebe de Burguer, Zaragoza",
+    "url": "https://www.instagram.com/reel/DAQkUJhof3B/?igsh=MXgzODMxcTlscDNwdw==",
+    "resumen": "Hamburgueseria desde Badajoz, recien abierta en Zaragoza, comida totalmente casera."
+  },
+  {
+    "nombre_encontrado": "Gonzo Bitter Bar",
+    "direccion": "Pl. de los Sitios, 9, Casco Antiguo, 50001 Zaragoza",
+    "lat": 41.64814459999999,
+    "lng": -0.8797103,
+    "place_id": "ChIJYVoKMdYVWQ0RLTGLc8K7S-w",
+    "busqueda": "Juanzo Tiber Bar, Zaragoza",
+    "url": "https://www.instagram.com/reel/DABAEPdIMht/?igsh=a21qc2tnbHV0Y25n",
+    "resumen": "Restaurante en la plaza de los Sitios, ideal para cita romantica. Recomienda los cocteles."
+  },
+  {
+    "nombre_encontrado": "Mas Torres",
+    "direccion": "C. de Francisco de Vitoria, 19, 50008 Zaragoza",
+    "lat": 41.646136,
+    "lng": -0.8799409,
+    "place_id": "ChIJM8sThi8VWQ0R4nM2s0uOtHI",
+    "busqueda": "Restaurante del grupo Mastorre",
+    "url": "https://www.instagram.com/reel/DAVrk9wCg-U/?igsh=MWttemhqc3RvYXY1bg==",
+    "resumen": "Segundo restaurante del grupo Mastorre, especializado en cachopo clasico."
+  },
+  {
+    "nombre_encontrado": "Bar- restaurante Yoli",
+    "direccion": "C/ del Monasterio de Siresa, 7, 50002 Zaragoza",
+    "lat": 41.6473213,
+    "lng": -0.8627382,
+    "place_id": "ChIJLef-f4UVWQ0Rz1jYx9UetE0",
+    "busqueda": "Bar Restaurante Yoli, Zaragoza",
+    "url": "https://www.instagram.com/reel/DA5tx5yIXbr/?igsh=NDAxcWx2dmtzcHpq",
+    "resumen": "Comida colombiana autentica en Zaragoza. Recomienda el plato con queso y salsa de guayaba."
+  },
+  {
+    "nombre_encontrado": "La Casa de La Marimorena",
+    "direccion": "C. de Fuenclara, 4, Casco Antiguo, 50003 Zaragoza",
+    "lat": 41.6538073,
+    "lng": -0.8819406,
+    "place_id": "ChIJbQm9mukVWQ0RIo0DM_dHu9k",
+    "busqueda": "Casa Maria, Zaragoza",
+    "url": "https://www.instagram.com/reel/C7Wj_ThIIV-/?igsh=MXd4eDNwbmtwanVraw==",
+    "resumen": "Comida casera en el centro de Zaragoza, 15 anos de tradicion familiar."
+  },
+  {
+    "nombre_encontrado": "El Maño Kebab",
+    "direccion": "Av. de Madrid, 71, Delicias, 50010 Zaragoza",
+    "lat": 41.6549233,
+    "lng": -0.8984662999999998,
+    "place_id": "ChIJ6Uwx_sgUWQ0RfHsv_ux6gzc",
+    "busqueda": "Mano Kebab, Zaragoza",
+    "url": "https://www.instagram.com/reel/C-5q2FAoIZA/?igsh=djBhdGJ0em1scDli",
+    "resumen": "Ranking de los mejores kebabs de Zaragoza; queda en tercer lugar."
+  },
+  {
+    "nombre_encontrado": "Cachopo Loco",
+    "direccion": "C. de Francisco de Vitoria, 31, 50008 Zaragoza",
+    "lat": 41.64486369999999,
+    "lng": -0.878741,
+    "place_id": "ChIJYQREPQAVWQ0RwkU-oBLoEF4",
+    "busqueda": "Cachopoloco, Zaragoza",
+    "url": "https://www.instagram.com/reel/DBQ12D2t98m/?igsh=MXVtOWZ4aXIzY2dmbQ==",
+    "resumen": "Restaurante especializado en cachopos de hasta un metro de largo."
+  },
+  {
+    "nombre_encontrado": "Kamado Asian Food",
+    "direccion": "C. de Isaac Peral, 19, Casco Antiguo, 50001 Zaragoza",
+    "lat": 41.6486197,
+    "lng": -0.8818126,
+    "place_id": "ChIJnU0EDqMVWQ0RYep_EmrcgLc",
+    "busqueda": "Camado, Zaragoza",
+    "url": "https://www.instagram.com/reel/DBYnQFxIgxt/?igsh=MTBwdndsbjN4eG1pMA==",
+    "resumen": "Restaurante de comida asiatica con decoracion llamativa. Destaca los xiaolongbao."
+  },
+  {
+    "nombre_encontrado": "Sushi Yumi",
+    "direccion": "C/ Tomás Bretón, 4, 50005 Zaragoza",
+    "lat": 41.6434666,
+    "lng": -0.8932859,
+    "place_id": "ChIJg6qAqSYVWQ0ROBXSma-LJ7M",
+    "busqueda": "Yo Sushi, Zaragoza",
+    "url": "https://www.instagram.com/reel/DBOT_LtI8Y6/?igsh=ZW95YTlidzJqODMx",
+    "resumen": "Buffet libre de sushi con buena relacion calidad-precio."
+  },
+  {
+    "nombre_encontrado": "Extrem Gastro & Baker",
+    "direccion": "Av. de Pablo Gargallo, 15, local 28, 50003 Zaragoza",
+    "lat": 41.6592451,
+    "lng": -0.8951127999999999,
+    "place_id": "ChIJ9daLJAAVWQ0RNNEjzSclg1s",
+    "busqueda": "Extreme, Zaragoza",
+    "url": "https://www.instagram.com/reel/DAjOllXo6Ce/?igsh=MWt0OGY0c2VlOGxxaw==",
+    "resumen": "Restaurante mejor valorado de brunch en Zaragoza. Destaca su tortilla con cebolla."
+  },
+  {
+    "nombre_encontrado": "Zalamero Centro",
+    "direccion": "Pl. de Miguel Salamero, Casco Antiguo, 50004 Zaragoza",
+    "lat": 41.6523045,
+    "lng": -0.8834353,
+    "place_id": "ChIJSXiMWUQVWQ0RjYa0NKUhA04",
+    "busqueda": "Restaurante Salamero, Zaragoza",
+    "url": "https://www.instagram.com/reel/DCEgcP6INju/?igsh=MTVub2VtbHVzNmN5cQ==",
+    "resumen": "Restaurante de inspiracion mediterranea. Recomienda el tartar de bacalao."
+  },
+  {
+    "nombre_encontrado": "MEGA Döner KEBAB 4.0",
+    "direccion": "C. del Valle de Zuriza, 25, Loc 6, 50014 Zaragoza",
+    "lat": 41.6614641,
+    "lng": -0.8703826,
+    "place_id": "ChIJGxqDUFEVWQ0RU0fJs83H20U",
+    "busqueda": "Mega Doner Kebab, Zaragoza",
+    "url": "https://www.instagram.com/share/reel/BAhyKGxyLa",
+    "resumen": "Durum mas grande de Zaragoza (casi 1,5kg) con pollo y ternera."
+  },
+  {
+    "nombre_encontrado": "Karakura Ramen Bar",
+    "direccion": "Av. de Madrid, 11, Delicias, 50004 Zaragoza",
+    "lat": 41.6556943,
+    "lng": -0.8947678,
+    "place_id": "ChIJbeR4D5IVWQ0RRwLzHFbWORE",
+    "busqueda": "Caracura, Zaragoza",
+    "url": "https://www.instagram.com/share/reel/BANaKY1fuh",
+    "resumen": "Restaurante asiatico con el ramen mas contundente probado por el autor."
+  },
+  {
+    "nombre_encontrado": "Bendito Vermú",
+    "direccion": "Av. de Cesáreo Alierta, 9, Casco Antiguo, 50008 Zaragoza",
+    "lat": 41.6457809,
+    "lng": -0.8780587,
+    "place_id": "ChIJcyU1O-UUWQ0RxjquwZnq4Nk",
+    "busqueda": "Loca, Zaragoza",
+    "url": "https://www.instagram.com/reel/DDPGqEtoC8p/?igsh=dzQ4bWN1a3F2OGt0",
+    "resumen": "Pequeno restaurante enfocado en producto de temporada en la calle Coso."
+  },
+  {
+    "nombre_encontrado": "GUAJAK AUTÉNTICOS MEXICANOS",
+    "direccion": "C. de Luis Braille, 2, local 4, 50013 Zaragoza",
+    "lat": 41.6413638,
+    "lng": -0.8723926999999999,
+    "place_id": "ChIJiep7rGkVWQ0RDIdWMK6iDwY",
+    "busqueda": "Guaja, Zaragoza",
+    "url": "https://www.instagram.com/reel/DC1lCyHor-Q/?igsh=MWhqd29lcHViYWdoOQ==",
+    "resumen": "Restaurante mexicano en Las Fuentes. Recomienda el burrito de pastor."
+  },
+  {
+    "nombre_encontrado": "Moselle",
+    "direccion": "Moselle",
+    "lat": 49.1671789,
+    "lng": 6.2118023,
+    "place_id": "ChIJV4UiVv0rvkcRMr-E2YTIJec",
+    "busqueda": "Valle del rio Mosela, Alemania",
+    "url": "https://www.instagram.com/share/reel/BAF-3ZnvLU",
+    "resumen": "Escapada de otono a 2h de avion, con castillos y vinedos cerca de Bonn."
+  },
+  {
+    "nombre_encontrado": "El Señor Wom y Asesores, S.L.",
+    "direccion": "Calle Don Jaime I Nº 14, 1º izda, Casco Antiguo, 50001 Zaragoza",
+    "lat": 41.652664,
+    "lng": -0.8790060000000001,
+    "place_id": "ChIJK4NNGukUWQ0R7RUvszgOYF8",
+    "busqueda": "WON, Zaragoza",
+    "url": "https://www.instagram.com/share/reel/BAbUBVRJSp",
+    "resumen": "Nuevo restaurante asiatico en calle Luis Vives 6, con hamburguesas fritas no tipicas."
+  },
+  {
+    "nombre_encontrado": "La Peña",
+    "direccion": "C. de María Moliner, 19, San José, 50007 Zaragoza",
+    "lat": 41.6395472,
+    "lng": -0.8844038999999999,
+    "place_id": "ChIJkyqPTeAUWQ0RfW7I9VuD0F4",
+    "busqueda": "La Pena 3, Zaragoza",
+    "url": "https://www.instagram.com/reel/DDzNnh4Iapr/?igsh=aGJncDA2ZnltYWZq",
+    "resumen": "Local cerca de la plaza del Pilar, comida casera buena y barata."
+  },
+  {
+    "nombre_encontrado": "Bulnes",
+    "direccion": "Bulnes, 33554 Cabrales, Asturias",
+    "lat": 43.23542260000001,
+    "lng": -4.8195991,
+    "place_id": "ChIJmau44_vFSQ0RV7lSBE_SDik",
+    "busqueda": "Bulnes",
+    "url": "https://www.instagram.com/reel/DEZVno3oet-/?igsh=aGNnY3Nqc2J5NDBj",
+    "resumen": "Lista de lugares poco masificados en Espana: cuevas, pueblos colgados, miradores y castillos rupestres."
+  },
+  {
+    "nombre_encontrado": "Camino del Parrizal",
+    "direccion": "Cam. del Parrizal, 44588, Teruel",
+    "lat": 40.8161726,
+    "lng": 0.1868305,
+    "place_id": "ChIJJ0MCtlOQoBIRFxf4Y21OEE8",
+    "busqueda": "Parrizal de Beceite",
+    "url": "https://www.instagram.com/reel/DEZVno3oet-/?igsh=aGNnY3Nqc2J5NDBj",
+    "resumen": "Lista de lugares poco masificados en Espana: cuevas, pueblos colgados, miradores y castillos rupestres."
+  },
+  {
+    "nombre_encontrado": "Castillo de Peracense",
+    "direccion": "Rodenas, s/n, Ctra. Peracense, 44369 Peracense, Teruel",
+    "lat": 40.636804,
+    "lng": -1.4804137,
+    "place_id": "ChIJ9Ui2Qdg0XA0RETEq87tNTws",
+    "busqueda": "Castillo de Peracense",
+    "url": "https://www.instagram.com/reel/DEZVno3oet-/?igsh=aGNnY3Nqc2J5NDBj",
+    "resumen": "Lista de lugares poco masificados en Espana: cuevas, pueblos colgados, miradores y castillos rupestres."
+  },
+  {
+    "nombre_encontrado": "Albania",
+    "direccion": "Albania",
+    "lat": 41.153332,
+    "lng": 20.168331,
+    "place_id": "ChIJLUwnvfM7RRMR7juY1onlfAc",
+    "busqueda": "Albania",
+    "url": "https://www.instagram.com/reel/DE5qSb9yPDr/?igsh=MWNqZHM2bWQwcWE0YQ==",
+    "resumen": "Pais barato de Europa, vecino de Grecia, con playas cristalinas y montanas."
+  },
+  {
+    "nombre_encontrado": "MEININGER Milano Garibaldi",
+    "direccion": "Via Privata Giovanni Calvino, 11, 20154 Milano MI, Italy",
+    "lat": 45.4909067,
+    "lng": 9.1711358,
+    "place_id": "ChIJS4b4AyPBhkcRcjwyaDJis5M",
+    "busqueda": "Hotel Maison Ninja Garibaldi, Milan",
+    "url": "https://www.instagram.com/reel/DCeprjYA9jD/?igsh=NnBjbHdnanpwaDds",
+    "resumen": "Hotel economico y familiar en Milan con zona de juegos y cocina comunitaria."
+  },
+  {
+    "nombre_encontrado": "MATi",
+    "direccion": "C. de S. Miguel, 14, Casco Antiguo, 50001 Zaragoza",
+    "lat": 41.650692,
+    "lng": -0.8797803999999999,
+    "place_id": "ChIJcYd4BhkVWQ0R5CiEfn2kIj4",
+    "busqueda": "Mati, Zaragoza",
+    "url": "https://www.instagram.com/reel/DFiih1lIyE4/?igsh=MW43cHZ6d3lreDRvMg==",
+    "resumen": "Bar de vermu en la calle San Miguel 14. Recomienda las patatas con mojo."
+  },
+  {
+    "nombre_encontrado": "Sushi Yumi",
+    "direccion": "C/ Tomás Bretón, 4, 50005 Zaragoza",
+    "lat": 41.6434666,
+    "lng": -0.8932859,
+    "place_id": "ChIJg6qAqSYVWQ0ROBXSma-LJ7M",
+    "busqueda": "Sushi Yumi, Zaragoza",
+    "url": "https://www.instagram.com/reel/DEFOtoVIxD0/?igsh=MXFwZGs2NXBiYWdkbg==",
+    "resumen": "Buffet libre de sushi en calle Moret 4. Recomienda el roll negro langostino."
+  },
+  {
+    "nombre_encontrado": "Taberna Peruana Don Raúl",
+    "direccion": "Av. de San José, 97, 50008 Zaragoza",
+    "lat": 41.6396631,
+    "lng": -0.8740066,
+    "place_id": "ChIJLaRaNwAVWQ0Rcrqt6Eiz71M",
+    "busqueda": "Taberna Don Raul",
+    "url": "https://www.instagram.com/reel/DE5b7fHohWR/?igsh=aW82cHBheDF1b3do",
+    "resumen": "Festin peruano con causa limena, leche de tigre y carne sazonada estilo peruano."
+  },
+  {
+    "nombre_encontrado": "Pizza Mia",
+    "direccion": "C. de Don Jaime I, 22, Casco Antiguo, 50001 Zaragoza",
+    "lat": 41.6529749,
+    "lng": -0.8785919,
+    "place_id": "ChIJuf9k3mQVWQ0RSuMruEXBFPg",
+    "busqueda": "Pizza Mia",
+    "url": "https://www.instagram.com/reel/DGN8C1AND7a/?igsh=MTdlZWJ1bzBpbXg3ZA==",
+    "resumen": "Pizza estrella relleno de mozzarella en los bordes, mas de 300 vendidas cada fin de semana."
+  },
+  {
+    "nombre_encontrado": "Restaurante Casa Agustín",
+    "direccion": "C. de la Cadena, 20, Casco Antiguo, 50001 Zaragoza",
+    "lat": 41.6499451,
+    "lng": -0.8753605999999999,
+    "place_id": "ChIJ9Q3AYTAVWQ0RqwazMowfrxo",
+    "busqueda": "Casa Gustin, Zaragoza",
+    "url": "https://www.instagram.com/reel/DEngf3HKyiz/?igsh=MTM3YXM4amlpOWs3NA==",
+    "resumen": "Oreja a la brasa mas famosa de Zaragoza, 15000 raciones al ano."
+  },
+  {
+    "nombre_encontrado": "Ristorante pizzeria La Sicilia Bella",
+    "direccion": "Calle de Graus, 9, Delicias, 50010 Zaragoza",
+    "lat": 41.6522792,
+    "lng": -0.9030843999999999,
+    "place_id": "ChIJtw75g-sVWQ0RJd9xkt-JcAs",
+    "busqueda": "La Sicilia Vera, Zaragoza",
+    "url": "https://www.instagram.com/reel/DGv4Je0omQ3/?igsh=Zm0wODByMTB2ZGE1",
+    "resumen": "Restaurante italiano con arancini, carbonara y pizza con pistacho y burrata."
+  },
+  {
+    "nombre_encontrado": "Alojamiento - Restaurante Casa Frutos",
+    "direccion": "Plaza Dr. Madrazo, 15, 39685 Vega de Pas, Cantabria",
+    "lat": 43.1583383,
+    "lng": -3.7820152,
+    "place_id": "ChIJq-jSoAcrSQ0REJz2zoj4Toc",
+    "busqueda": "Casa Frutos, Cantabria",
+    "url": "https://www.instagram.com/reel/DGyferLucFg/?igsh=ZHVvemdpZjJ5YWsw",
+    "resumen": "Ruta de cocidos por Cantabria en varios restaurantes recomendados."
+  },
+  {
+    "nombre_encontrado": "Restaurante El Bodegón",
+    "direccion": "Pob. San Roque, 4, 39570 Potes, Cantabria",
+    "lat": 43.1542662,
+    "lng": -4.6213044,
+    "place_id": "ChIJm2TNmd6zSQ0R8GOoSpdSg9g",
+    "busqueda": "El Bodegon, Potes",
+    "url": "https://www.instagram.com/reel/DGyferLucFg/?igsh=ZHVvemdpZjJ5YWsw",
+    "resumen": "Ruta de cocidos por Cantabria en varios restaurantes recomendados."
+  },
+  {
+    "nombre_encontrado": "Tomeguín & Colibrí Specialty Coffee Shop",
+    "direccion": "C. de los Huertos, 12, 28370 Chinchón, Madrid",
+    "lat": 40.1398145,
+    "lng": -3.4232187,
+    "place_id": "ChIJvSRHUtETQg0Rx_MFXArsV64",
+    "busqueda": "Cafe de Chinchon",
+    "url": "https://www.instagram.com/reel/DG0TqgLscqf/?igsh=MThpZmg1NzlrZWluZw==",
+    "resumen": "Torreznos premiados, carrilleras al Pedro Ximenez y callos caseros."
+  },
+  {
+    "nombre_encontrado": "Verona",
+    "direccion": "Verona, VR, Italy",
+    "lat": 45.4383659,
+    "lng": 10.9917136,
+    "place_id": "ChIJ4-CbaWhff0cRW1mCaGNa-FM",
+    "busqueda": "Verona",
+    "url": "https://www.instagram.com/reel/DF8c0GWIfDj/?igsh=MTV6dWZtZzQ4cnBzOA==",
+    "resumen": "Ruta de 10 dias en tren por Italia desde Milan."
+  },
+  {
+    "nombre_encontrado": "Bologna",
+    "direccion": "Bologna, Metropolitan City of Bologna, Italy",
+    "lat": 44.494887,
+    "lng": 11.3426163,
+    "place_id": "ChIJC8RR6ZjUf0cRQZSkWwF84aI",
+    "busqueda": "Bologna",
+    "url": "https://www.instagram.com/reel/DF8c0GWIfDj/?igsh=MTV6dWZtZzQ4cnBzOA==",
+    "resumen": "Ruta de 10 dias en tren por Italia desde Milan."
+  },
+  {
+    "nombre_encontrado": "Pisa",
+    "direccion": "Pisa, Province of Pisa, Italy",
+    "lat": 43.72283849999999,
+    "lng": 10.4017581,
+    "place_id": "ChIJj1n28JqR1RIRyHiEp7UPuKo",
+    "busqueda": "Pisa",
+    "url": "https://www.instagram.com/reel/DF8c0GWIfDj/?igsh=MTV6dWZtZzQ4cnBzOA==",
+    "resumen": "Ruta de 10 dias en tren por Italia desde Milan."
+  },
+  {
+    "nombre_encontrado": "Cinque Terre",
+    "direccion": "Cinque Terre, SP, Italy",
+    "lat": 44.1460939,
+    "lng": 9.6438793,
+    "place_id": "ChIJe7qrmhvu1BIRrPRwGvHOlf8",
+    "busqueda": "Cinque Terre",
+    "url": "https://www.instagram.com/reel/DF8c0GWIfDj/?igsh=MTV6dWZtZzQ4cnBzOA==",
+    "resumen": "Ruta de 10 dias en tren por Italia desde Milan."
+  },
+  {
+    "nombre_encontrado": "Genoa",
+    "direccion": "Genoa, Metropolitan City of Genoa, Italy",
+    "lat": 44.4071448,
+    "lng": 8.934738099999999,
+    "place_id": "ChIJrZrU3FJB0xIRCmKBGPGEaiM",
+    "busqueda": "Genova",
+    "url": "https://www.instagram.com/reel/DF8c0GWIfDj/?igsh=MTV6dWZtZzQ4cnBzOA==",
+    "resumen": "Ruta de 10 dias en tren por Italia desde Milan."
+  },
+  {
+    "nombre_encontrado": "Mesón Martín",
+    "direccion": "C. de María Guerrero, 26, Delicias, 50009 Zaragoza",
+    "lat": 41.6437465,
+    "lng": -0.9105235,
+    "place_id": "ChIJ4xCOny5rWQ0Rpb88b4wWLpE",
+    "busqueda": "Casa Martin",
+    "url": "https://www.instagram.com/reel/DHT7YntIfzC/?igsh=eGVjczRvbmRoaGNn",
+    "resumen": "Restaurante recomendado para chuleton de vaca madurado y huevos rotos con foie."
+  },
+  {
+    "nombre_encontrado": "La Mar de Dulce - Salvador Allende",
+    "direccion": "Av. de Salvador Allende, 47, 50015 Zaragoza",
+    "lat": 41.672014,
+    "lng": -0.8773717,
+    "place_id": "ChIJZ4T-cBgVWQ0RdlthLUeJnWk",
+    "busqueda": "El Paraiso del Dulce, Zaragoza",
+    "url": "https://www.instagram.com/reel/DH34D7JIfpB/?igsh=ZGljYzUwaGV0eW5m",
+    "resumen": "Sitios para golosos en Zaragoza: croissants gigantes y cinnamon rolls."
+  },
+  {
+    "nombre_encontrado": "Funky Rolls",
+    "direccion": "C. de Don Jaime I, 44, Casco Antiguo, 50001 Zaragoza",
+    "lat": 41.6545763,
+    "lng": -0.8772462999999999,
+    "place_id": "ChIJAZv-fQAVWQ0RFSS0R9fJfrA",
+    "busqueda": "Funky Rolls, Zaragoza",
+    "url": "https://www.instagram.com/reel/DH34D7JIfpB/?igsh=ZGljYzUwaGV0eW5m",
+    "resumen": "Sitios para golosos en Zaragoza: croissants gigantes y cinnamon rolls."
+  },
+  {
+    "nombre_encontrado": "Ramen Kagura Zaragoza",
+    "direccion": "C. del Marqués de Casa Jiménez, 6, Loc 1, Casco Antiguo, 50004 Zaragoza",
+    "lat": 41.6499344,
+    "lng": -0.8842620999999999,
+    "place_id": "ChIJX8iAoD8VWQ0RnmNrxhGG-W4",
+    "busqueda": "Ramen Cagura, Zaragoza",
+    "url": "https://www.instagram.com/reel/DJo2z_UoR5p/?igsh=MXh0ZnFzMjcycHBjeg==",
+    "resumen": "Mejor ramen de Zaragoza segun el video, en calle Marques de la Cadena 6."
+  },
+  {
+    "nombre_encontrado": "Cala dels Frares",
+    "direccion": "Cala dels Frares, Cami Castell, 5, 17310 Lloret de Mar, Girona",
+    "lat": 41.6993935,
+    "lng": 2.860392,
+    "place_id": "ChIJS6XPY8wQuxIRBkX8Q3ZqGfc",
+    "busqueda": "Cala dels Frares, Tarragona",
+    "url": "https://www.instagram.com/reel/DJRJ3zTCKQK/?igsh=emxzd3FkYWFmODg=",
+    "resumen": "Cala accesible por escaleras con formaciones rocosas espectaculares."
+  },
+  {
+    "nombre_encontrado": "El Rincón",
+    "direccion": "C. de Alfonso I, 18, Casco Antiguo, 50003 Zaragoza",
+    "lat": 41.6543952,
+    "lng": -0.8806617999999999,
+    "place_id": "ChIJRbw3aOwUWQ0RLq-BcT6LWHI",
+    "busqueda": "Mi Conuco, Zaragoza",
+    "url": "https://www.instagram.com/reel/DJr2x1Rs5Ff/?igsh=OXFrdno0ZDViY3Aw",
+    "resumen": "Restaurante venezolano en Las Fuentes. Recomienda la arepa reina pepiada."
+  },
+  {
+    "nombre_encontrado": "Pasarelas De Valloré",
+    "direccion": "44559 Montoro de Mezquita, Teruel",
+    "lat": 40.6934867,
+    "lng": -0.6015349999999999,
+    "place_id": "ChIJpTnmJq4BXw0RZ7lDcM_kdRQ",
+    "busqueda": "Pasarelas de Valore, Teruel",
+    "url": "https://www.instagram.com/reel/DIYd9X-OPEN/?igsh=MTBzZ29sa3lubWt6bw==",
+    "resumen": "Pasarelas de madera entre aguas cristalinas, en Teruel."
+  },
+  {
+    "nombre_encontrado": "Ghent",
+    "direccion": "Ghent, Belgium",
+    "lat": 51.0499922,
+    "lng": 3.7303853,
+    "place_id": "ChIJrUOUM-Fww0cRQFFNL6uZAAQ",
+    "busqueda": "Gante",
+    "url": "https://www.instagram.com/reel/DMxWsRbIvh5/?igsh=MWY5b2ZsaWl2NXV4MQ==",
+    "resumen": "Ruta de 5 ciudades de Belgica desde 39 euros."
+  },
+  {
+    "nombre_encontrado": "Bruges",
+    "direccion": "Bruges, Belgium",
+    "lat": 51.20845079999999,
+    "lng": 3.2250586,
+    "place_id": "ChIJDUIewdBQw0cR902DyFrzoho",
+    "busqueda": "Brujas",
+    "url": "https://www.instagram.com/reel/DMxWsRbIvh5/?igsh=MWY5b2ZsaWl2NXV4MQ==",
+    "resumen": "Ruta de 5 ciudades de Belgica desde 39 euros."
+  },
+  {
+    "nombre_encontrado": "Antwerp",
+    "direccion": "Antwerp, Belgium",
+    "lat": 51.2199302,
+    "lng": 4.414990299999999,
+    "place_id": "ChIJfYjDv472w0cRuIqogoRErz4",
+    "busqueda": "Amberes",
+    "url": "https://www.instagram.com/reel/DMxWsRbIvh5/?igsh=MWY5b2ZsaWl2NXV4MQ==",
+    "resumen": "Ruta de 5 ciudades de Belgica desde 39 euros."
+  },
+  {
+    "nombre_encontrado": "Mechelen",
+    "direccion": "Mechelen, Belgium",
+    "lat": 51.0279827,
+    "lng": 4.4793443,
+    "place_id": "ChIJSSCFUJTlw0cRAFhNL6uZAAQ",
+    "busqueda": "Mechelen",
+    "url": "https://www.instagram.com/reel/DMxWsRbIvh5/?igsh=MWY5b2ZsaWl2NXV4MQ==",
+    "resumen": "Ruta de 5 ciudades de Belgica desde 39 euros."
+  },
+  {
+    "nombre_encontrado": "Dinant",
+    "direccion": "Dinant, Belgium",
+    "lat": 50.26270969999999,
+    "lng": 4.9106023,
+    "place_id": "ChIJ1bDy9-K_wUcRcJcYDh-L_-M",
+    "busqueda": "Dinant",
+    "url": "https://www.instagram.com/reel/DMxWsRbIvh5/?igsh=MWY5b2ZsaWl2NXV4MQ==",
+    "resumen": "Ruta de 5 ciudades de Belgica desde 39 euros."
+  },
+  {
+    "nombre_encontrado": "Restaurante El Salón",
+    "direccion": "C. Toscas de San Antonio, 13, 38370 La Matanza de Acentejo, Santa Cruz de Tenerife",
+    "lat": 28.4380014,
+    "lng": -16.457473,
+    "place_id": "ChIJp-MQ1pHUQQwRO0YXf3WNN00",
+    "busqueda": "Restaurante El Salon",
+    "url": "https://www.instagram.com/reel/DNkfayiorvs/?igsh=MWgzeWdibm43bmFkbQ==",
+    "resumen": "Restaurante de pueblo pequeno sin redes sociales, menu de 19 euros con alubias y carrilleras."
+  },
+  {
+    "nombre_encontrado": "San Esteban del Valle",
+    "direccion": "05412 San Esteban del Valle, Ávila",
+    "lat": 40.274631,
+    "lng": -4.9805519,
+    "place_id": "ChIJ_Yj5cQZ0QA0RUp1V3w2cun0",
+    "busqueda": "San Esteban del Valle, Avila",
+    "url": "https://www.instagram.com/reel/DG0QN10scLq/?igsh=MWljY2didjVsZjc1eg==",
+    "resumen": "Bar de pueblo con croquetas, callos y morro a precios muy bajos."
+  },
+  {
+    "nombre_encontrado": "Pura Brasa Zaragoza - Cabezo Buenavista",
+    "direccion": "Parque Grande de José Antonio Labordeta, Zona, C. del Cabezo Buenavista, 50006 Zaragoza",
+    "lat": 41.6322018,
+    "lng": -0.8937913,
+    "place_id": "ChIJ-_xpJ0MVWQ0RZQnF7jcDYZo",
+    "busqueda": "Pura Brasa, Zaragoza",
+    "url": "https://www.instagram.com/reel/DOOK0G-CBEP/?igsh=emJ2a2U4eTg4ZDdq",
+    "resumen": "Restaurante en el Parque Grande especializado en ahumados. Recomienda la costilla."
+  },
+  {
+    "nombre_encontrado": "El Jardincillo",
+    "direccion": "Polígono Europa, 14, 50011 Zaragoza",
+    "lat": 41.6772323,
+    "lng": -0.9577549999999999,
+    "place_id": "ChIJwcvjA3ZsWQ0RI13dvHZbWp8",
+    "busqueda": "Restaurante Jatricillo, Zaragoza",
+    "url": "https://www.instagram.com/reel/DOl9diICKml/?igsh=MXhmcHk5dnh0NXBzMA==",
+    "resumen": "Restaurante rumano en Zaragoza, menu de 17 euros con sopa borsch y sarmale."
+  },
+  {
+    "nombre_encontrado": "El Picadillo",
+    "direccion": "C. de la Manifestación, 13, Casco Antiguo, 50003 Zaragoza",
+    "lat": 41.656159,
+    "lng": -0.8811399999999999,
+    "place_id": "ChIJocZIl-wUWQ0RE6WGnzRI8bs",
+    "busqueda": "Cafe Bar Picadillo, Zaragoza",
+    "url": "https://www.instagram.com/reel/DQUtpcrCH1P/?igsh=MWlkcnA4Y2duaWx6MA==",
+    "resumen": "Comida por 10 euros en Zaragoza: tacos y perritos de 20cm."
+  },
+  {
+    "nombre_encontrado": "Petit train d'Artouste",
+    "direccion": "Station d'Artouste, 64440 Laruns, France",
+    "lat": 42.8794812,
+    "lng": -0.3963994,
+    "place_id": "ChIJJ1uu_5S9Vw0R3mr4X-HsIkQ",
+    "busqueda": "Tren de Artouste, Francia",
+    "url": "https://www.instagram.com/reel/DWjM0fmCkUa/?igsh=eng5bW9ibDNuZDE0",
+    "resumen": "Tren turistico mas alto de Europa, a 30 min de la frontera con Espana, hasta el lago de Artouste."
+  },
+  {
+    "nombre_encontrado": "valle de Bujaruelo",
+    "direccion": "valle de Bujaruelo, 22376, Huesca",
+    "lat": 42.70013549999999,
+    "lng": -0.1000764,
+    "place_id": "ChIJmzzZ_TD7Vw0RODM-HtOov0o",
+    "busqueda": "Valle de Bujaruelo",
+    "url": "https://www.instagram.com/reel/DYu3BbpNEk8/?igsh=djZwYWZubG1lbTls",
+    "resumen": "Valle en el Pirineo con rutas para todos los niveles, parking y refugio."
+  },
+  {
+    "nombre_encontrado": "Georgia",
+    "direccion": "Georgia",
+    "lat": 42.315407,
+    "lng": 43.35689199999999,
+    "place_id": "ChIJa2JP5tcMREARwkotEmR5kE8",
+    "busqueda": "Georgia",
+    "url": "https://vm.tiktok.com/ZNdeHD4kL/",
+    "resumen": "Destino economico 2025 poco visitado, con monasterios, montanas y el pueblo mas alto de Europa."
+  },
+  {
+    "nombre_encontrado": "El Parrizal",
+    "direccion": "44588 Beceite, Teruel",
+    "lat": 40.8221401,
+    "lng": 0.187876,
+    "place_id": "ChIJ0YSOdQCRoBIR1SwQSKw6SVc",
+    "busqueda": "Ruta del Parrizal, Beceite",
+    "url": "https://vm.tiktok.com/ZNdLsNV33/",
+    "resumen": "Ruta de 8km por el rio Matarrana con cascadas y pozas cristalinas en Beceite."
+  },
+  {
+    "nombre_encontrado": "Santuari de la Mare de Déu de la Balma",
+    "direccion": "CV-14, Km. 22, 12311 Zorita del Maestrazgo, Castellón",
+    "lat": 40.7450504,
+    "lng": -0.177113,
+    "place_id": "ChIJqzwo2MFwXw0RoowgEzKzXR4",
+    "busqueda": "Santuario de la Balma",
+    "url": "https://vm.tiktok.com/ZNdqtQdgp/",
+    "resumen": "Santuario excavado en roca, se accede por tuneles y cuevas. Lugar de peregrinacion activo."
+  },
+  {
+    "nombre_encontrado": "Sant Miquel del Fai",
+    "direccion": "BV-1485, Km. 7, 08416 Riells del fai, Barcelona",
+    "lat": 41.7160351,
+    "lng": 2.19054,
+    "place_id": "ChIJVSsPQBnDpBIRMjyAz_xzUo4",
+    "busqueda": "Monasterio de Sant Miquel del Fai, Cataluna",
+    "url": "https://vm.tiktok.com/ZNdvJ9u8b/",
+    "resumen": "Monasterio construido literalmente en la roca con iglesias incrustadas en la montana."
+  },
+  {
+    "nombre_encontrado": "La Ciudad Encantada",
+    "direccion": "CM-2104, Km 19, 16192 Valdecabras, Cuenca",
+    "lat": 40.2067043,
+    "lng": -2.0114435,
+    "place_id": "ChIJUdoxNnRuXQ0RJpr3gG5kw5I",
+    "busqueda": "Ciudad Encantada, Cuenca",
+    "url": "https://vm.tiktok.com/ZNdvsaCgP/",
+    "resumen": "Formaciones rocosas que parecen gigantes de piedra, antiguo fondo marino."
+  },
+  {
+    "nombre_encontrado": "Gouffre de Padirac",
+    "direccion": "Le Gouffre, 46500 Padirac, France",
+    "lat": 44.8581868,
+    "lng": 1.7504297,
+    "place_id": "ChIJd_PjVqvQrBIRFZ0tUwVXMY0",
+    "busqueda": "Gouffre de Padirac, Francia",
+    "url": "https://vm.tiktok.com/ZNdTjyXC7/",
+    "resumen": "Cenote con rio navegable y formaciones espectaculares, cerca de pueblos medievales franceses."
+  },
+  {
+    "nombre_encontrado": "Vía Ferrata de Sorrosal",
+    "direccion": "Ctra. Oto, 22370 Broto, Huesca",
+    "lat": 42.60535540000001,
+    "lng": -0.1281756,
+    "place_id": "ChIJ6zR7BwD5Vw0RRNvBdtLD1Mk",
+    "busqueda": "Via ferrata del Sorrosal, Broto",
+    "url": "https://vm.tiktok.com/ZNdwohUdc/",
+    "resumen": "Via ferrata con tirolina, escalera de 20m junto a cascada y tunel hasta el barranco."
+  },
+  {
+    "nombre_encontrado": "Cueva del Agua",
+    "direccion": "12, Diseminado de Don Pedro, 12, 23489 Quesada, Jaén",
+    "lat": 37.7679568,
+    "lng": -3.024386100000001,
+    "place_id": "ChIJ6-GrQwGybw0RDfSTUPo9ZU0",
+    "busqueda": "Gruta de las Maravillas, Tiscar, Jaen",
+    "url": "https://vm.tiktok.com/ZNRdHL5pS/",
+    "resumen": "Gruta natural de acceso libre y gratuito junto al castillo de Tiscar."
+  },
+  {
+    "nombre_encontrado": "Teruel",
+    "direccion": "Teruel",
+    "lat": 40.3456879,
+    "lng": -1.1064345,
+    "place_id": "ChIJQ_3w76tzXg0R8BxUrKMSlAI",
+    "busqueda": "Teruel",
+    "url": "https://vm.tiktok.com/ZNRR3oyBJ/",
+    "resumen": "Escapada de 4 dias por Teruel: catedral de ladrillo, pueblos colgados y castillos."
+  },
+  {
+    "nombre_encontrado": "El Cañón Rojo",
+    "direccion": "8VC7+CP, 44190 Teruel",
+    "lat": 40.31619020000001,
+    "lng": -1.140938,
+    "place_id": "ChIJQ5V9HQB1Xg0RAiE89ftlv0o",
+    "busqueda": "Canon Rojo, Bronchales",
+    "url": "https://vm.tiktok.com/ZNRchsLjN/",
+    "resumen": "Escapada por Teruel: canon rojo, rio Bronchales y castillo rupestre de Peracense."
+  },
+  {
+    "nombre_encontrado": "Cascada de Calomarde (Batida o del Molino Viejo)",
+    "direccion": "44126 Calomarde, Teruel",
+    "lat": 40.3731136,
+    "lng": -1.5512053,
+    "place_id": "ChIJCwdzb6u_XQ0RcCX_O1NDRy4",
+    "busqueda": "Cascada de Calomarde",
+    "url": "https://vm.tiktok.com/ZNRchsLjN/",
+    "resumen": "Escapada por Teruel: canon rojo, rio Bronchales y castillo rupestre de Peracense."
+  },
+  {
+    "nombre_encontrado": "Cangas Aventura - Descenso del Sella",
+    "direccion": "Arriondas Finca La Dehesa - El Portazgo (detrás de la única gasolinera de, 33547 Arriondas, Asturias",
+    "lat": 43.3879518,
+    "lng": -5.1825329,
+    "place_id": "ChIJ3d7IHPUYNg0RCf6die-mx6Y",
+    "busqueda": "Descenso del Sella, Asturias",
+    "url": "https://youtube.com/shorts/Rou8mcKRJ1U?si=Lr8VsC6GL-biy5_f",
+    "resumen": "Descenso en canoa de 7-17km por el rio Sella desde Riba de Sella. Unos 20 euros por persona."
+  },
+  {
+    "nombre_encontrado": "Salina Turda",
+    "direccion": "Str.Aleea Durgaului.7, Judet:, Aleea Durgăului 7, 401106 Turda, Romania",
+    "lat": 46.58769890000001,
+    "lng": 23.7871819,
+    "place_id": "ChIJZca_hbNoSUcRDMHtZTdXftQ",
+    "busqueda": "Mina de Sal de Turda, Rumania",
+    "url": "https://youtube.com/shorts/dm5XG7O7_fU?si=Dj9HOIp5wrAeWJOc",
+    "resumen": "Mina de sal de 200m de profundidad, destino turistico desde 1992."
+  },
+  {
+    "nombre_encontrado": "Mercado Central de Zaragoza",
+    "direccion": "Av. de César Augusto, 110, Casco Antiguo, 50003 Zaragoza",
+    "lat": 41.6561291,
+    "lng": -0.8828511,
+    "place_id": "ChIJi0rJXOsUWQ0RDyopKO9OweI",
+    "busqueda": "Mercado Central, Zaragoza",
+    "url": "https://youtube.com/shorts/bSOV3JqFNmE?si=PCELZzKftS3EERHt",
+    "resumen": "Puesto con bocadillo de 1kg de pastrami en el Mercado Central."
+  },
+  {
+    "nombre_encontrado": "Tony's Chocolonely Superstore",
+    "direccion": "Oudebrugsteeg 15, 1012 JN Amsterdam, Netherlands",
+    "lat": 52.3755577,
+    "lng": 4.896832,
+    "place_id": "ChIJL1vfcbgJxkcRdFHxXONAcek",
+    "busqueda": "Fabrica de chocolate Tonys, Amsterdam",
+    "url": "https://youtube.com/shorts/NzipTei-oGs?si=U48S7Fcj6a6Qsv23",
+    "resumen": "Fabrica de chocolate secreta donde puedes crear tu propia tableta personalizada."
+  },
+  {
+    "nombre_encontrado": "Trieste",
+    "direccion": "Trieste, Province of Trieste, Italy",
+    "lat": 45.65083420000001,
+    "lng": 13.7674486,
+    "place_id": "ChIJM_Xt5AZre0cRUCvd1IQkamY",
+    "busqueda": "Trieste, Italia",
+    "url": "https://youtube.com/shorts/LP4TaavnwYA?si=02X-xBr4U8edZNmy",
+    "resumen": "Ciudad italiana en el norte con plaza mas grande de Europa frente al mar."
+  },
+  {
+    "nombre_encontrado": "Pastelería Fantoba",
+    "direccion": "C. de Don Jaime I, 21, local, Casco Antiguo, 50003 Zaragoza",
+    "lat": 41.653199,
+    "lng": -0.8785685999999999,
+    "place_id": "ChIJqRTt2-0UWQ0RHFcyniBsHPE",
+    "busqueda": "Pasteleria calle San Jaime, Zaragoza",
+    "url": "https://youtube.com/shorts/emcvutEievk?si=l_W_bvegM-bUYKXv",
+    "resumen": "Pasteleria con obrador propio cerca de plaza Espana. Croissant de pistacho."
+  },
+  {
+    "nombre_encontrado": "Dingle",
+    "direccion": "Dingle, Co. Kerry, Ireland",
+    "lat": 52.1408534,
+    "lng": -10.2671142,
+    "place_id": "ChIJkUmcJMf7T0gRAMwxl6nHAAo",
+    "busqueda": "Dingle, Irlanda",
+    "url": "https://youtube.com/shorts/l9StMWpD5-Q?is=bC2cs-pLRFvWrIuY",
+    "resumen": "Ruta por la costa salvaje de Irlanda: Dingle, Killarney, Anillo de Kerry y Cobh."
+  },
+  {
+    "nombre_encontrado": "Killarney National Park",
+    "direccion": "Co. Kerry, Ireland",
+    "lat": 52.0058447,
+    "lng": -9.5561803,
+    "place_id": "ChIJE-Q95D4-RUgRepBJabkmiJ0",
+    "busqueda": "Parque Nacional de Killarney",
+    "url": "https://youtube.com/shorts/l9StMWpD5-Q?is=bC2cs-pLRFvWrIuY",
+    "resumen": "Ruta por la costa salvaje de Irlanda: Dingle, Killarney, Anillo de Kerry y Cobh."
+  },
+  {
+    "nombre_encontrado": "Ring of Kerry",
+    "direccion": "Ring of Kerry, Co. Kerry, Ireland",
+    "lat": 51.8387186,
+    "lng": -9.9008487,
+    "place_id": "ChIJtV7rr94_RUgR9URTj-xR038",
+    "busqueda": "Anillo de Kerry",
+    "url": "https://youtube.com/shorts/l9StMWpD5-Q?is=bC2cs-pLRFvWrIuY",
+    "resumen": "Ruta por la costa salvaje de Irlanda: Dingle, Killarney, Anillo de Kerry y Cobh."
+  },
+  {
+    "nombre_encontrado": "Cobh",
+    "direccion": "Cobh, Co. Cork, Ireland",
+    "lat": 51.8530415,
+    "lng": -8.295090499999999,
+    "place_id": "ChIJB_TrdZ2DREgRIWMlMRd4mDw",
+    "busqueda": "Cobh",
+    "url": "https://youtube.com/shorts/l9StMWpD5-Q?is=bC2cs-pLRFvWrIuY",
+    "resumen": "Ruta por la costa salvaje de Irlanda: Dingle, Killarney, Anillo de Kerry y Cobh."
+  }
+]
